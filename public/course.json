@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/HNfTwDR/971.jpg",
+        "course_title": "Python Programming Fundamentals",
+        "credit": 3,
+        "price": 49,
+        "course_details": "Learn the basics of Python programming, including variables, loops, and functions."
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/bzPvz8t/3426526.jpg",
+        "course_title": "Java Web Application Development",
+        "credit": 4,
+        "price": 79,
+        "course_details": "Build dynamic web applications using Java and popular frameworks like Spring Boot."
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/zsKHpYW/ai-site-helping-with-software-production.jpg",
+        "course_title": "JavaScript for Front-End Development",
+        "credit": 3,
+        "price": 59,
+        "course_details": "Master JavaScript to create interactive and responsive user interfaces for web applications."
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/SyvmFR3/computer-program-coding-screen.jpg",
+        "course_title": "Machine Learning with Python",
+        "credit": 4,
+        "price": 89,
+        "course_details": "Explore the world of machine learning, deep learning, and data analysis using Python."
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/g7FQ5n1/html-css-collage-concept.jpg",
+        "course_title": "Mobile App Development with React",
+        "credit": 3,
+        "price": 69,
+        "course_details": "Create cross-platform mobile apps using React Native, the popular JavaScript framework."
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co/8jDRbWt/programming-background-collage.jpg",
+        "course_title": "C++ Game Development",
+        "credit": 3,
+        "price": 54,
+        "course_details": "Design and develop exciting games using C++ and game development engines."
+    },
+    {
+        "id": 7,
+        "img": "https://i.ibb.co/6ghsc83/programming-background-with-person-working-with-codes-computer.jpg",
+        "course_title": "Data Structures and Algorithms in Java",
+        "credit": 4,
+        "price": 74,
+        "course_details": "Master essential data structures and algorithms to solve complex coding problems efficiently."
+    },
+    {
+        "id": 8,
+        "img": "https://i.ibb.co/zstjkKL/rear-view-programmer-working-all-night-long.jpg",
+        "course_title": "Full-Stack Web Development with MERN",
+        "credit": 3,
+        "price": "89",
+        "course_details": "Learn the MERN stack (MongoDB, Express, React, Node.js) to build web applications from scratch."
+    },
+    {
+        "id": 9,
+        "img": "https://i.ibb.co/YRP1rnJ/SL-103020-37400-03.jpg",
+        "course_title": "DevOps and Continuous Integration",
+        "credit": 4,
+        "price": 99,
+        "course_details": "Discover the world of DevOps, automation, and CI/CD pipelines to streamline software development."
+    }
+]
